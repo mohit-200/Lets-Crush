@@ -10,12 +10,12 @@ document.addEventListener('DOMContentLoaded', () => {
     let move = 5
 
     const candyColors = [
-        'url(images/u.png)',
-        'url(images/w.png)',
-        'url(images/p.png)',
-        'url(images/m.png)',
-        'url(images/e.png)',
-        'url(images/r.png)'
+        'url(u.png)',
+        'url(w.png)',
+        'url(p.png)',
+        'url(m.png)',
+        'url(e.png)',
+        'url(r.png)'
     ]
 
     //create your board
